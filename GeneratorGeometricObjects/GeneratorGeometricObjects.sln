@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorGeometricObjects", "GeneratorGeometricObjects\GeneratorGeometricObjects.csproj", "{D8AE8F37-5B6B-4F0A-BC37-2C44B6574838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorGeometricObjects.Tests", "GeneratorGeometricObjects.Tests\GeneratorGeometricObjects.Tests.csproj", "{1325C746-B48B-4348-8676-48BE0D7B792B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8AE8F37-5B6B-4F0A-BC37-2C44B6574838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AE8F37-5B6B-4F0A-BC37-2C44B6574838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AE8F37-5B6B-4F0A-BC37-2C44B6574838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AE8F37-5B6B-4F0A-BC37-2C44B6574838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1325C746-B48B-4348-8676-48BE0D7B792B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1325C746-B48B-4348-8676-48BE0D7B792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1325C746-B48B-4348-8676-48BE0D7B792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1325C746-B48B-4348-8676-48BE0D7B792B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188E551F-BA3F-429F-9EBF-E0DE42C2898D}
+	EndGlobalSection
+EndGlobal
