@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace GeneratorGeometricObjects
 {
+    /// <summary>
+    /// Main class to work with generators
+    /// </summary>
     public static class Generators
     {
         static Generators()
